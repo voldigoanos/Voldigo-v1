@@ -122,13 +122,13 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 14520s npm run zokou
+        timeout 14520s npm run voldigo
 
  ```
 
 ## Contributions 🤝
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. 🙌
+Contributions to Voldigo are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. 🙌
 
 Special thanks to:
 
@@ -137,11 +137,11 @@ Special thanks to:
 
 ## License 📜
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Voldigo is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of Zokou to enhance your WhatsApp experience! 💬🎉
 
 ## Developers:
 
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+- [**†𝛻𝛩𝐿𝐷𝛪𝐺𝛩 𝛥𝛮𝛩𝑆†**](https://github.com/voldigoanos/)
+
