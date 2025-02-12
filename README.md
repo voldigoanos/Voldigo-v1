@@ -6,9 +6,9 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 
 - **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts. 🎶📹
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou. 😄✨
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Voldigo. 🌚✨
 
-- **Group Management:** Zokou offers group management features like adding or removing members, configuring rules, and other settings. 👥📋
+- **Group Management:** Voldigo offers group management features like adding or removing members, configuring rules, and other settings. 👥📋
 
 - **Text to Image:** The best logos have been selected for your convenience. 🖼️🎨
 
@@ -18,7 +18,7 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 
 - **Inspiring Quotes:** Receive inspiring quotes daily to motivate you. 💪🌟
 
-## How to Get Zokou 🛠️
+## How to Get VOLDIGO-V1 🛠️
 
 1. Click on **[Fork](https://github.com/Luffy2ndAccount/zokou-english-v2/fork)** to copy the repo to your GitHub account. Don’t forget to add a star 🌟 to encourage the developers.
 
